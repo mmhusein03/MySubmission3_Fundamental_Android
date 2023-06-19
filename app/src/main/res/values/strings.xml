@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MySubmission_a268x0607</string>
+
+    <string name="name">Nama</string>
+    <string name="company">Company</string>
+    <string name="alamat">Location</string>
+    <string name="repository">Repository</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="ket_follower">Follower</string>
+    <string name="ket_following">Following</string>
+    <string name="ket_repo">Repository</string>
+    <string name="bt_share">Share Profile</string>
+    <string name="id">Id</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan nama user</string>
+    <string name="hint">Masukkan nama user</string>
+    <string name="inputUser">Masukkan nama user</string>
+    <string name="responseFail">Response failed</string>
+    <string name="usertNotFound">User tidak ditemukan</string>
+    <string name="countUser">Count</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="title">Github User</string>
+    <string name="ket_count">Jumlah User :</string>
+    <string name="where">Share with</string>
+    <string name="nameuser">NameUser</string>
+    <string name="favorite">User Favorite</string>
+    <string name="favorite_user">Daftar Favorite User</string>
+    <string name="favorited_user">favorite user?</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="darkMode">Dark Theme</string>
+    <string name="lightMode">Light Theme</string>
+    <string name="title_favorite">Favorite User</string>
+    <string name="log_message">Silahkan untuk mencari user melalui search bar diatas</string>
+    <string name="message_empty_favorite">Belum ada user yang ditambahkan</string>
+    <string name="message_empty_search">Maaf user yang anda cari tidak ditemukan</string>
+</resources>
